@@ -1,3 +1,1 @@
-![portfolio](https://user-images.githubusercontent.com/74523461/116762286-f2254380-a9e7-11eb-8677-2f18a5ed604b.gif)
-
-
+![gif](https://user-images.githubusercontent.com/74523461/117063964-8d256280-acf3-11eb-948e-53f12d2b7a35.gif)
